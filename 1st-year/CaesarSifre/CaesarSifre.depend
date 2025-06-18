@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1746124886 source:c:\users\_dell\desktop\c\caesarsifre\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
